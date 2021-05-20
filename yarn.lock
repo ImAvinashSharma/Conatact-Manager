@@ -5356,6 +5356,8 @@ __metadata:
     "@testing-library/jest-dom": ^5.11.4
     "@testing-library/react": ^11.1.0
     "@testing-library/user-event": ^12.1.10
+    eslint-config-react: ^1.1.7
+    eslint-config-react-app: ^6.0.0
     react: ^17.0.2
     react-dom: ^17.0.2
     react-scripts: 4.0.3
@@ -5966,6 +5968,13 @@ __metadata:
     eslint-plugin-testing-library:
       optional: true
   checksum: ab983e9a3101ee266f3b6b7118e76f7200ff0bab1a44ff84a03f300a90857b039c8a5b632d467f09540c13919565ac969ddef3dc13f903e5960fe46070a9da51
+  languageName: node
+  linkType: hard
+
+"eslint-config-react@npm:^1.1.7":
+  version: 1.1.7
+  resolution: "eslint-config-react@npm:1.1.7"
+  checksum: 34149368ab57cb32fd9209840ad52feb5a71f434783a581a299982e3172be876dd977e6d63bd0527d6c63d6cae4ec5e6e8fe843feede11fd5c5e933487e95b83
   languageName: node
   linkType: hard
 
